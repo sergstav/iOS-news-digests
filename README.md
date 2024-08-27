@@ -89,5 +89,29 @@ https://www.avanderlee.com/swift/lazy-var-property
 If you ever wondered about macOS development here is a book for you:\
 https://troz.net/books/macos_tutorials/
 
+# 30 July, 2024
+If you ever thought about going indie do not miss this article from Antoine var der Lee about this success story:\
+https://www.avanderlee.com/general/from-side-project-to-going-indie
+
+A Paywall Optimization Success Story
+The motivation, process, and results of a recent paywall experiment that significantly boosted conversions for Foodnoms:\
+https://ryanashcraft.com/paywall-optimization-success-story/
+
+Async await in Swift: The Full Toolkit
+Today, we're going through the many techniques in the Swift Concurrency toolkit. We'll discuss theory when it's appropriate, but for each tool we'll also provide a context where it might be the best solution:\
+https://www.emergetools.com/blog/posts/swift-async-await-the-full-toolkit
+
+Unfold's Modern Mobile Release Process and the Subtle Art of Making Them Boring
+On the Unfold team at Squarespace, we build our mobile app for both iOS and Android, and our releases don't require much in the way of manual intervention or human oversight. In fact, we don’t have to give releases much thought at all:\
+https://engineering.squarespace.com/blog/2024/unfolds-modern-mobile-release-process-and-the-subtle-art-of-making-them-boring
+
+If you ever worked with Objective-C, you probably have some opinion about using it, check this article about comparison Objective-C and Swift
+Swift vs. Objective-C: Which is Better for iOS Development:\
+https://dev.to/ravi_makhija/swift-vs-objective-c-which-is-better-for-ios-development-om3
+
+Unobtrusive and testable issue reporting
+Developers from PointFree are happy to anounce about creating a new library: Issue Reporting. This library provides tools to report issues in your application and library code as Xcode runtime warnings, breakpoints, assertions, and do so in a testable manner:\
+https://www.pointfree.co/blog/posts/147-unobtrusive-and-testable-issue-reporting
+
 Exploring SwiftUI: Using onScrollPhaseChange for Scroll Changes in iOS 18\
 https://www.rudrank.com/exploring-swiftui-using-onscrollphasechange
