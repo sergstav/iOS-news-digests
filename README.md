@@ -30,3 +30,30 @@ https://www.avanderlee.com/swift/json-parsing-decoding
 Let’s build iOS 18’s navigation title card in SwiftUI
 iOS 18 standardizes a design pattern that could be called “navigation title cards”, for lack of an established HIG term. In their simplest form, these cards appear at the top of a list of content and provide brief explanatory text:\
 https://jeffverkoeyen.com/blog/2024/08/24/iOS-18-Navigation-Title-Cards
+
+# August 13, 2024
+We all know about Swift for iOS, MacOS, watchOS development and even for backend development. But what about embedded? Here it is
+Embedded Swift Tutorial - Getting Started (Everything you need to know)
+Apple announced Embedded Swift development at WWDC 2024. This new development target allows you to start coding for non-Apple hardware using Swift:\
+https://blog.supereasyapps.com/embedded-swift-tutorial-getting-started-everything-you-need-to-know
+
+Navigation Patterns in SwiftUI
+Navigation has often been a challenge in SwiftUI applications. Initially, SwiftUI introduced NavigationView, which was later replaced by NavigationStack in iOS 16.
+NavigationStack enhanced navigation by enabling dynamic and programmatic routing, and it also offered ways to centralize routes for the entire application. In this article, I’ll explore common navigation patterns that can be employed when building SwiftUI applications:\
+https://azamsharp.com/2024/07/29/navigation-patterns-in-swiftui.html
+
+Entry Macro for Custom SwiftUI Environment Values
+The Entry macro reduces the boilerplate when customizing the SwiftUI environment:\
+https://useyourloaf.com/blog/entry-macro-for-custom-swiftui-environment-values
+
+How to upload assets using the App Store Connect API
+When you create a new version of your app in App Store Connect, you might also need to upload new assets like screenshots or previews for the App Store. You can do this manually on the App Store Connect website, but if you have a lot of localizations to support and your assets change often across versions, this can be a tedious, error-prone, and time-consuming process:\
+https://www.runway.team/blog/how-to-upload-assets-using-the-app-store-connect-api
+
+Truncating Text In SwiftUI
+Text is the most common kind of content that apps contain. We deal with all sorts of text length everyday, but when it comes to long text we often need to cut it off and display just a part of it. Along with that, users usually get an option to expand and view the long text, or collapse and keep it truncated.
+In this post we are going to demonstrate two ways that will let you achieve truncation easily, and an additional approach where you can simulate (fake) truncation by fetching and presenting a substring of the original string. As a bonus chapter, I’ll also show you how to expand and collapse truncated text, mostly because truncation and text expansion go together as features into an app:\
+https://serialcoder.dev/text-tutorials/swiftui/truncating-text-in-swiftui
+
+Exploring SwiftUI: Using onScrollPhaseChange for Scroll Changes in iOS 18\
+https://www.rudrank.com/exploring-swiftui-using-onscrollphasechange
