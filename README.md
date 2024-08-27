@@ -55,5 +55,39 @@ Text is the most common kind of content that apps contain. We deal with all sort
 In this post we are going to demonstrate two ways that will let you achieve truncation easily, and an additional approach where you can simulate (fake) truncation by fetching and presenting a substring of the original string. As a bonus chapter, I’ll also show you how to expand and collapse truncated text, mostly because truncation and text expansion go together as features into an app:\
 https://serialcoder.dev/text-tutorials/swiftui/truncating-text-in-swiftui
 
+# August 6, 2024
+App design: 5 benefits of using system components
+Building custom elements and ignoring the sometimes boring system components during app design can be appealing. However, these boring elements have many benefits you might not be aware of.
+If you’ve read many of my technical articles, you might be surprised to hear that I’ve actually done a bachelor’s degree in Communication and Multimedia Design (CMD), also known as Interactive Media, in Amsterdam. I’ve had to teach myself coding on the side, resulting in a great mix of design and coding knowledge. In today’s article, I’ll share a few reasons why system components should not be overlooked:\
+https://www.avanderlee.com/optimization/app-design-5-benefits-of-using-system-components
+
+Pickup in 3 minutes: Uber’s implementation of Live Activity on iOS
+The 2022 WWDC keynote brought an unexpected surprise when Apple™ unveiled the new Live Activities feature, using Uber’s Rider app as a prominent example. This announcement generated excitement for the feature to come and set the stage for an exhilarating journey for our team.
+What follows is the story of how we started designing for surfaces outside the app, the engineering problems we had to solve along the way, and ultimately how we measurably improved the experience of riders and drivers:\
+https://www.uber.com/en-LB/blog/live-activity-on-ios/?uclick_id=a322da25-5f8e-483c-ab44-fc54cb783c3c
+
+Scrolling pickers in SwiftUI
+Today we’ll be exploring the features that ScrollView carrying around since iOS 17 by building a value picker.
+Breath some inspiration from this post and let’s get started:\
+https://uvolchyk.medium.com/scrolling-pickers-in-swiftui-de4a9c653fb6
+
+Displaying Data with Table (Part I)
+One of the most traditional ways of displaying data is through a table. Think about having to create one in a document, working with a spreadsheet, or (for the experienced dev) a database. That’s why the Table component is a powerful tool in the SwiftUI framework. It doesn’t take much code to get data beautifully laid out in our app.
+A little more here and there and we can quickly add on features and styles to enhance the UX. We’ll explore that in Part II:\
+https://captainswiftui.substack.com/p/displaying-data-with-table-part-i
+
+Olympic Logo in SwiftUI\
+https://medium.com/@alessandromanilii/olympic-logo-in-swiftui-dee37cbd53f1
+
+How often do you use lazy keyword in your code? Maybe you need to refresh your knowledge about it? Here is the article for you
+Lazy var in Swift explained with code examples
+A lazy var is a property whose initial value is not calculated until the first time it’s called. It’s part of a family of properties in which we have constant properties, computed properties, and mutable properties.
+A lazy property might be lesser known to beginners in Swift but are actually super valuable once you know when and how to use them. There are a few important things to learn so you know when to use which type of property:\
+https://www.avanderlee.com/swift/lazy-var-property
+
+#Books
+If you ever wondered about macOS development here is a book for you:\
+https://troz.net/books/macos_tutorials/
+
 Exploring SwiftUI: Using onScrollPhaseChange for Scroll Changes in iOS 18\
 https://www.rudrank.com/exploring-swiftui-using-onscrollphasechange
