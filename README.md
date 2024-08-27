@@ -137,5 +137,31 @@ If you ever wondered what is the difference between Some and Any make sure to ch
 Some vs Any\
 https://mfaani.com/posts/swift/some-vs-any
 
+# July 16, 2024
+Some tips & tricks with the new iOS 18 ScrollView API
+Pagination, hiding navigation and tab bar & more
+iOS 18 brings a host of new APIs for the ScrollView; it’s now better than ever! From reading the exact position to listening to the scroll view status, you can (mostly) do it all:\
+https://dimillian.medium.com/some-tips-tricks-with-the-new-ios-18-scrollview-api-95632b41bc8e
+
+3 Rs of Software Architecture for iOS based in SwiftUI
+After over 50 years of software engineering, we still haven't settled on a precise definition of software architecture. It remains the art within computer science, persistently evading our efforts to pin it down. Nevertheless, its importance to the industry and applications is undeniable. To read more:\
+https://dev.to/maatheusgois/3-rs-of-software-architecture-for-ios-based-in-swiftui-c6j
+
+List or LazyVStack: Choosing the Right Lazy Container in SwiftUI
+In the world of SwiftUI, List and LazyVStack, as two core lazy containers, offer robust support for developers to display large amounts of data. However, their similar performance in certain scenarios often causes confusion among developers when making a choice. This article aims to analyze the characteristics and advantages of these two components to help you make a better decision:\
+https://itnext.io/list-or-lazyvstack-choosing-the-right-lazy-container-in-swiftui-27f5b8272dae
+
+Using PreviewModifier to build a previewing environment
+Xcode 16 and iOS 18 come with a feature that allows us to build elaborate preview environments using a new PreviewModifier protocol. This protocol allows us to define objects that can create a single context or environment that’s cached and used across your SwiftUI previews:\
+https://www.donnywals.com/using-previewmodifier-to-build-a-previewing-environment
+
+Blend Modes in SwiftUI
+Blend modes play a crucial role in digital design, enabling designers to easily create complex visual effects like overlays and textures. They're essential for tasks like photo manipulation, creating lighting effects, and adding depth to images.
+Blend modes, as the name suggests, blends the colors of multiple layers of pixels using mathematical formulas to determine each pixel's influence on the final image. You can combine any number of layers, but at a minimum, you'll need 2 layers - a base layer and a blend layer to create a blend mode effect:\
+https://digitalbunker.dev/blend-modes-in-swiftui
+
+After two rejections, Apple approves Epic Games Store app for iOS\
+https://arstechnica.com/gadgets/2024/07/report-apple-approves-epic-games-store-on-ios-in-europe/
+
 Exploring SwiftUI: Using onScrollPhaseChange for Scroll Changes in iOS 18\
 https://www.rudrank.com/exploring-swiftui-using-onscrollphasechange
