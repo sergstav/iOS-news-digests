@@ -163,5 +163,27 @@ https://digitalbunker.dev/blend-modes-in-swiftui
 After two rejections, Apple approves Epic Games Store app for iOS\
 https://arstechnica.com/gadgets/2024/07/report-apple-approves-epic-games-store-on-ios-in-europe/
 
-Exploring SwiftUI: Using onScrollPhaseChange for Scroll Changes in iOS 18\
-https://www.rudrank.com/exploring-swiftui-using-onscrollphasechange
+# July 9, 2024
+Vulnerabilities in CocoaPods Open the Door to Supply Chain Attacks Against Thousands of iOS and MacOS Applications
+Multiple vulnerabilities affecting the CocoaPods ecosystem, have been discovered, posing a major risk of supply chain attacks:\
+https://www.evasec.io/blog/eva-discovered-supply-chain-vulnerabities-in-cocoapods
+
+Let's dive into some iOS apps history 🙂 Let's read how Uber's iOS and Android applications were created. 
+Brief History of Scaling Uber\
+https://www.linkedin.com/pulse/brief-history-scaling-uber-josh-clemm-dfqgc/
+
+SwiftUI can be a bit... eager
+When writing an application using AppKit or UIKit you feel can confident as to when views are created and released. Your code takes explicit actions for that to happen. SwiftUI is a big more nebulous. Let's look at a typical example. Below is a simple SwiftUI application that shows a partial list of SFSymbols and allows you to tap on one to see a larger version:\
+https://www.attributedstrings.com/swiftui-can-be-a-bit-eager
+
+A Summary Of How To Pass Data To SwiftUI Environment
+The SwiftUI environment is an in-memory shared storage among all views within a view hierarchy. Thanks to it, various parts of an app can access shared data easily, allowing for better state management which is fundamental to SwiftUI. The environment simplifies data flow by just making it available to views, while each individual view can read or update only the pieces of data that’s interested in. In general, the environment lifts a big load of sharing data among views, it helps us write cleaner code, but most importantly, it lets us focus more on the views and the user interface:\
+https://serialcoder.dev/text-tutorials/swiftui/a-summary-of-how-to-pass-data-to-swiftui-environment
+
+Mastering ScrollView in SwiftUI. Scroll Phases
+This year, the SwiftUI framework introduced several new scrolling APIs, allowing us to track and tune everything in a scroll view. This week, we will discuss monitoring scroll phases in SwiftUI:\
+https://swiftwithmajid.com/2024/07/02/mastering-scrollview-in-swiftui-scroll-phases
+
+WebSocket tutorial using Swift and Hummingbird
+A great tutorial about how to create a server and a client using WebSockets and Hummingbird framework on Swift:\
+https://swiftonserver.com/websocket-tutorial-using-swift-and-hummingbird
