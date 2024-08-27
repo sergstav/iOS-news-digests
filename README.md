@@ -113,5 +113,29 @@ Unobtrusive and testable issue reporting
 Developers from PointFree are happy to anounce about creating a new library: Issue Reporting. This library provides tools to report issues in your application and library code as Xcode runtime warnings, breakpoints, assertions, and do so in a testable manner:\
 https://www.pointfree.co/blog/posts/147-unobtrusive-and-testable-issue-reporting
 
+# July 23, 2024
+Let's start this digest with something unusual - Mac development using Go 🙂
+How I build simple Mac apps using Go\
+https://dev.to/progrium/how-i-build-simple-mac-apps-using-go-104j
+
+And one more about Mac development. Great article from Jordi Bruin about all the pros and benefits of development for Mac
+Why macOS Development is Perfect for Indie Developers
+Building apps for macOS offers developers a fantastic opportunity to expand their skills, create useful utilities to solve their problems, and begin their journey as indie developers:\
+https://www.avanderlee.com/swiftui/macos-development-powerful-utilities
+
+Adding values to the SwiftUI environment with Xcode 16’s Entry macro
+Adding custom values to SwiftUI’s environment has never been very hard to do to. However, the syntax for doing it is verbose and easy to forget. To refresh your mind, take a look at this post where we explain how to add your own environment values to a SwiftUI view:\
+https://www.donnywals.com/adding-values-to-the-swiftui-environment-with-xcode-16s-entry-macro
+
+The video you should definitely see - the interview with Chris Lattner the creator of the Swift language and his thoughts about current Swift state:\
+https://www.youtube.com/watch?v=ovYbgbrQ-v8&ab_channel=ThePrimeTime
+
+And one more about Swift problems - Data race safety\
+https://kean.blog/post/swift-6
+
+If you ever wondered what is the difference between Some and Any make sure to check this article
+Some vs Any\
+https://mfaani.com/posts/swift/some-vs-any
+
 Exploring SwiftUI: Using onScrollPhaseChange for Scroll Changes in iOS 18\
 https://www.rudrank.com/exploring-swiftui-using-onscrollphasechange
