@@ -1,6 +1,32 @@
 # iOS-news-digests
 iOS news digests 
 
+# September 3, 2024
+
+Send data Between iOS Apps and Extensions Using Darwin Notifications
+n iOS development, app extensions run in separate processes from their containing apps. This separation poses a challenge when you need to communicate between the main app and its extensions. While NSNotificationCenter is a common choice for passing data between view controllers within the same app, it falls short when it comes to inter-process communication. Have you ever thought about how to pass data between the main app and its extension? Darwin notifications provide a powerful solution for this scenario. In this post, we’ll explore how to implement a Darwin Notifications manager and use it to facilitate real-time data transfer between a main app and its extension:\
+https://ohmyswift.com/blog/2024/08/27/send-data-between-ios-apps-and-extensions-using-darwin-notifications
+
+SwiftUI Modifiers Deep Dive: containerBackground
+On this deep dive, we are exploring the containerBackground SwiftUI modifier, which was added in iOS 17:\
+https://swift.mackarous.com/posts/2024/08/modifiers-container-background/
+
+A great article about concurrency with a lot of interesting examples
+Concurrency Step-by-Step: A Network Request\
+https://www.massicotte.org/step-by-step-network-request
+
+JavaScript to Swift and back: Bridging location services in WKWebView\
+https://swiftlybald.com/javascript-to-swift-and-back-bridging-location-services-in-wkwebview
+
+SwiftUI Previewable Mac
+Apple added the Previewable macro to iOS 18. This generates the boilerplate wrapper view you need to preview a view with State bindings:\
+https://useyourloaf.com/blog/swiftui-previewable-macro
+
+Continuous deployment for large monorepos
+A story about Uber's process of updating code
+In this article, we share how we reimagined continuous deployment of microservices at Uber to improve our deployment automation and the user experience of managing microservices, while tackling some of the peculiar challenges of working with large monorepos with increasing commit volumes:\
+https://www.uber.com/en-UA/blog/continuous-deployment/
+
 # August 27, 2024
 
 First things first. Apple announced "It's Glowtime" event. Monday, Sep 9, 10 am:\
