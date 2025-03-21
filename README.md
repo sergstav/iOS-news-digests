@@ -1,6 +1,37 @@
 # iOS-news-digests
 iOS news digests 
 
+# September 10, 2024
+
+First thing first, if you somehow missed or haven't seen it yet - Apple released new iPhones, updates to AirPods, new Apple Watches. My favourite update - hearing aid. What about yours? Share in the comments
+https://www.cnbc.com/2024/09/09/apple-event-2024-live-updates-iphone-16-apple-watch-10.html
+
+Have you ever failed with you application, site or startup? Maybe you chose wrong idea, launched too early or too late, do you think only small companies make huge mistakes? Not at all! Read this article to know how Google failed in 2008 when tried to launch Google Maps in India
+Google Maps UX: The India Conundrum
+When Google Maps expanded to India in 2008, it made a major blunder. Here’s how we quickly recovered from our mistake and creatively adapted Google Maps to work in India:
+https://elizlaraki.substack.com/p/google-maps-ux-the-india-conundrum
+
+Revolutionizing Surgery and Medical Treatments with visionOS
+This article has been crafted as the theoretical companion to the Speculative Spatial Design Canvas, providing an in-depth exploration of the principles and concepts that underpin the canvas’s practical application. It aims to enrich your understanding and enhance your use of the canvas, ensuring you can apply it more effectively to create innovative and user-friendly spatial experiences:
+https://www.createwithswift.com/revolutionizing-surgery-and-medical-treatments-with-visionos
+
+Github contribution graph with Swift Charts
+In 2022 Apple introduced a brand new SwiftUI framework — Swift Charts. You can use it to visualize data with rich customization and minimal code. Swift Charts is available in iOS 16+ and supports watchOS and macOS as well. In this article I'll guide you through recreating Github Contribution Graph. Let's start:
+https://www.artemnovichkov.com/blog/github-contribution-graph-swift-charts
+
+SwiftData Expressions
+SwiftData gained support for predicate expression in iOS 18. How does it compare to the expressions we can use with Core Data? To learn more check the article:
+https://useyourloaf.com/blog/swiftdata-expressions
+
+Swift Testing: Validate your code using expressive APIs
+Apple announced the Swift Testing framework during WWDC 2024. It transforms the way we write tests in Swift. A new clear, expressive API makes writing tests more straightforward, while the Xcode user interface communicates with improved feedback when a test fails or succeeds.
+    The testing framework embraces Swift Macros, reducing the boilerplate code you must write for repetitive tests. So-called parameterized tests help you run similar tests over a sequence of values. Hence, you no longer have to duplicate and maintain an almost identical test for a different input value. Let’s dive into how Swift Testing works and how you can use it today:
+https://www.avanderlee.com/swift-testing/introducing-expressive-apis
+
+The Future of Vapor
+Discussing what the future holds for Vapor
+https://blog.vapor.codes/posts/the-future-of-vapor
+
 # September 3, 2024
 
 Send data Between iOS Apps and Extensions Using Darwin Notifications
