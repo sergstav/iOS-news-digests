@@ -1,35 +1,73 @@
 # iOS-news-digests
 iOS news digests 
 
+# September 17, 2024
+
+iOS 18, iPad OS 18, WatchOS 11, MacOS Sequoia, Xcode 16 RC are available! Did you update your devices? A little reminder for developer: if you want to update your devices don't forget that you will need to update Xcode version 😄\
+https://www.apple.com/ios/ios-18
+https://www.apple.com/ipados/ipados-18
+https://www.apple.com/watchos/watchos-11
+https://developer.apple.com/documentation/xcode-release-notes/xcode-16-release-notes
+https://www.apple.com/newsroom/2024/09/macos-sequoia-is-available-today
+
+Apple announced 'Win-back offers' available for auto-renewable subscriptions
+You can now configure win-back offers — a new type of offer for auto-renewable subscriptions — in App Store Connect. Win-back offers allow you to reach previous subscribers and encourage them to resubscribe to your app or game. For example, you can create a pay up front offer for a reduced subscription price of $9.99 for six months, with a standard renewal price of $39.99 per year:\
+https://developer.apple.com/news/?id=8utnewzk
+
+iPhone 16 Screen Sizes
+Two new sizes as the Pro phones grow in size, and weight, and get even smaller bezels. Here’s what you need to know about the iPhone 16:\
+https://useyourloaf.com/blog/iphone-16-screen-sizes
+
+Realm deprecated (Realm was renamed to Atlas Device Sync)
+Atlas Device Sync, Atlas Edge Server, Data API, and HTTPS Endpoints are deprecated
+https://www.mongodb.com/docs/atlas/app-services/sync/device-sync-deprecation
+More details: The on-device database will continue to be an open-source project. For the syncing, some of our partners, such as Ditto, are already working on integrations to make it easier for you to replace this SDK:\
+https://www.mongodb.com/community/forums/t/device-sync-and-edge-server-are-deprecated/296035
+
+Great article from EmergeTools about memory detection
+The Memory Leak: An Xcode Detective Story
+"I recently ran into a funny bug with deep links.
+Sometimes, when tapping a push notification, some users reported the destination screen appearing twice - the app would open, navigate to the correct screen, but the screen push transition would happen twice.
+I began investigating, unaware how deep this rabbit hole would go":\
+https://www.emergetools.com/blog/posts/the-memory-leak-an-xcode-detective-story
+
+The weirdest Core Data crash I have seen
+Careful how you name your attributes...\
+https://nemecek.be/blog/207/the-weirdest-core-data-crash-i-have-seen
+
+Pre-built iOS Binaries: Reducing React Native Dev Start Time from Minutes to Seconds
+React Native makes it easier than ever for web developers to cross over into mobile development. With its familiar JSX components and JavaScript ecosystem, it has made cross-platform development more accessible. However, the native build pipeline can still pose significant challenges, especially for those new to mobile development. The intricacies of Xcode, Cocoapods, and other native tools often create obstacles and slow down the workflow:\
+https://www.monarchmoney.com/eng-blog/pre-built-ios-binaries-reducing-react-native-dev-start-time-from-minutes-to
+
 # September 10, 2024
 
-First thing first, if you somehow missed or haven't seen it yet - Apple released new iPhones, updates to AirPods, new Apple Watches. My favourite update - hearing aid. What about yours? Share in the comments
+First thing first, if you somehow missed or haven't seen it yet - Apple released new iPhones, updates to AirPods, new Apple Watches. My favourite update - hearing aid. What about yours? Share in the comments:\
 https://www.cnbc.com/2024/09/09/apple-event-2024-live-updates-iphone-16-apple-watch-10.html
 
 Have you ever failed with you application, site or startup? Maybe you chose wrong idea, launched too early or too late, do you think only small companies make huge mistakes? Not at all! Read this article to know how Google failed in 2008 when tried to launch Google Maps in India
 Google Maps UX: The India Conundrum
-When Google Maps expanded to India in 2008, it made a major blunder. Here’s how we quickly recovered from our mistake and creatively adapted Google Maps to work in India:
+When Google Maps expanded to India in 2008, it made a major blunder. Here’s how we quickly recovered from our mistake and creatively adapted Google Maps to work in India:\
 https://elizlaraki.substack.com/p/google-maps-ux-the-india-conundrum
 
 Revolutionizing Surgery and Medical Treatments with visionOS
-This article has been crafted as the theoretical companion to the Speculative Spatial Design Canvas, providing an in-depth exploration of the principles and concepts that underpin the canvas’s practical application. It aims to enrich your understanding and enhance your use of the canvas, ensuring you can apply it more effectively to create innovative and user-friendly spatial experiences:
+This article has been crafted as the theoretical companion to the Speculative Spatial Design Canvas, providing an in-depth exploration of the principles and concepts that underpin the canvas’s practical application. It aims to enrich your understanding and enhance your use of the canvas, ensuring you can apply it more effectively to create innovative and user-friendly spatial experiences:\
 https://www.createwithswift.com/revolutionizing-surgery-and-medical-treatments-with-visionos
 
 Github contribution graph with Swift Charts
-In 2022 Apple introduced a brand new SwiftUI framework — Swift Charts. You can use it to visualize data with rich customization and minimal code. Swift Charts is available in iOS 16+ and supports watchOS and macOS as well. In this article I'll guide you through recreating Github Contribution Graph. Let's start:
+In 2022 Apple introduced a brand new SwiftUI framework — Swift Charts. You can use it to visualize data with rich customization and minimal code. Swift Charts is available in iOS 16+ and supports watchOS and macOS as well. In this article I'll guide you through recreating Github Contribution Graph. Let's start:\
 https://www.artemnovichkov.com/blog/github-contribution-graph-swift-charts
 
 SwiftData Expressions
-SwiftData gained support for predicate expression in iOS 18. How does it compare to the expressions we can use with Core Data? To learn more check the article:
+SwiftData gained support for predicate expression in iOS 18. How does it compare to the expressions we can use with Core Data? To learn more check the article:\
 https://useyourloaf.com/blog/swiftdata-expressions
 
 Swift Testing: Validate your code using expressive APIs
 Apple announced the Swift Testing framework during WWDC 2024. It transforms the way we write tests in Swift. A new clear, expressive API makes writing tests more straightforward, while the Xcode user interface communicates with improved feedback when a test fails or succeeds.
-    The testing framework embraces Swift Macros, reducing the boilerplate code you must write for repetitive tests. So-called parameterized tests help you run similar tests over a sequence of values. Hence, you no longer have to duplicate and maintain an almost identical test for a different input value. Let’s dive into how Swift Testing works and how you can use it today:
+    The testing framework embraces Swift Macros, reducing the boilerplate code you must write for repetitive tests. So-called parameterized tests help you run similar tests over a sequence of values. Hence, you no longer have to duplicate and maintain an almost identical test for a different input value. Let’s dive into how Swift Testing works and how you can use it today:\
 https://www.avanderlee.com/swift-testing/introducing-expressive-apis
 
 The Future of Vapor
-Discussing what the future holds for Vapor
+Discussing what the future holds for Vapor:\
 https://blog.vapor.codes/posts/the-future-of-vapor
 
 # September 3, 2024
