@@ -1,7 +1,40 @@
 # iOS-news-digests
 iOS news digests 
 
-# September 17, 2024
+# September 23, 2024 
+
+Announcing Swift 6
+"We’re delighted to announce the general availability of Swift 6. This is a major new release that expands Swift to more platforms and domains"
+- Concurrency
+- Typed throws
+- Ownership
+- C++ interoperability
+
+And more here:\
+https://www.swift.org/blog/announcing-swift-6
+
+Jailbreak your Enemies with a Link: Remote Execution on iOS
+"Today you’ll learn how to spot WebKit vulnerabilities. If you report new remote execution exploits to Apple, they might just pay you $1,500,000"
+This is the story of the Trident exploit chain: 3 zero-day vulnerabilities in iOS that enabled the first remote jailbreak. Part #1 dives into the internals of the JavaScriptCore runtime: where a vulnerability lurks in WebKit which would crack your iPhone wide open:\
+https://blog.jacobstechtavern.com/p/jailbreak-enemies-with-a-link-remote-execution
+
+Converting an App from Obj-C
+A great story about reimplementing iOS application from Objective-C to Swift and SwiftUI:\
+https://troz.net/post/2024/app_conversion/
+
+If you are looking for a iOS developer job or just want to refresh your knowledge check this great article with top iOS Interview question and answers 2024
+Top iOS Interview Questions and Answers 2024:\
+https://www.swiftanytime.com/blog/ios-interview-questions
+
+Swift Testing: Validate your code using expressive APIs
+Apple announced the Swift Testing framework during WWDC 2024. It transforms the way we write tests in Swift. A new clear, expressive API makes writing tests more straightforward, while the Xcode user interface communicates with improved feedback when a test fails or succeed:\
+https://www.avanderlee.com/swift-testing/introducing-expressive-apis
+
+How to Crop an Image in SwiftUI
+Images are an integral part of any mobile app which significantly impact the user interface and user experience. In SwiftUI, the Image view, by default, renders images at their original size without automatically resizing or cropping them to fit different device screens. However, SwiftUI offers several modifiers to handle images gracefully:\
+https://www.swiftanytime.com/blog/how-to-crop-an-image-in-swiftui
+
+# September 16, 2024
 
 iOS 18, iPad OS 18, WatchOS 11, MacOS Sequoia, Xcode 16 RC are available! Did you update your devices? A little reminder for developer: if you want to update your devices don't forget that you will need to update Xcode version 😄\
 https://www.apple.com/ios/ios-18
